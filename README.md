@@ -1,4 +1,4 @@
-# Hery there, it's Robin 👋
+# Hey there, it's Robin 👋
 
 🤖 Artificial Intelligence | 💻 Software Engineer
 
