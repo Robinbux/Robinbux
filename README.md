@@ -1,4 +1,4 @@
-# Robin Stöhr 🌍
+# Robin Stöhr
 
 ## Machine Learning Engineer | AI Researcher
 
