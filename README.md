@@ -1,30 +1,41 @@
-# Hey there, it's Robin 👋
+# Robin Stöhr 🌍
 
-🤖 Artificial Intelligence | 💻 Software Engineer
+## Machine Learning Engineer | AI Researcher
 
-I am a software engineer with experience in building and maintaining back-end systems, and currently studying for my M.S in Artificial Intelligence. I have a passion for incorporating new technologies into existing systems, and have experience working on several internships and working student positions, at the likes of Uber, Toast Inc. and SuperX.
+Hello there! I'm Robin, an experienced Machine Learning Engineer holding a Master's in Artificial Intelligence from Vrije Universiteit Amsterdam. My journey in the tech world has taken me through renowned organizations like Uber, SuperX, and Toast. I thrive at the intersection of software engineering and artificial intelligence, and I'm passionate about pushing the boundaries of what AI can achieve. 
 
-## 🚀 Work Experience
+## 💼 Professional Experience
 
-- **Uber Technologies, Inc.**: Bootstrapped and finished the inclusion of a new service to the Uber AdTech team on the monorepo backend(Apple search ads). Executing larger scale refactorings and later on wrote multiple developer scripts, to automate/simplify workflows (Java EE, Spring Boot, PostgresQL, Protocol Buffers, Apple Search Ads API)
-- **SuperX GmbH**: As one of the first developers, I worked on setting up whole backend infrastructure from the ground up in a small team, and organized and executed large refactorings (Kotlin, Quarkus, PostgresQL, Flyway, Twilio, Facebook API, Postmark)
-- **Toast, Inc.**: Working on customer engagement team, on the backend and the frontend code. Adding according functionality to the Android code for the POS (Java EE, Spring Boot, PostgresQL, Android, Hibernate, Apache Thrift, Twilio)
+- **Superchat, Berlin, Germany**: As one of the foundational engineers, I played a pivotal role in setting up the backend infrastructure. My time here involved architectural design, performance optimization, and critical refactoring operations. Tech stack: `Kotlin`, `Quarkus`, `PostgreSQL`, `Twilio`, `Facebook API`, `Postmark`.
 
-## 🔬 Research
+- **Uber, Amsterdam, Netherlands**: Contributed to the Uber AdTech team, spearheading the integration of Apple Search Ads. Additionally, I introduced various Bash scripts to automate developer workflows, boosting overall productivity. Tech stack: `Java EE`, `Spring Boot`, `PostgreSQL`, `Protocol Buffers`, `Apple Search Ads API`.
 
-- Solving the Extended Job Shop Scheduling Problem with AGVs - Classical and Quantum Approaches (Co-Author) 
-- Paper written in cooperation with Telekom Innovation Laboratories and Fraunhofer FOKUS, to be published at the 19th International Conference on the Integration of Constraint Programming, Artificial Intelligence, and Operations Research (CPAIOR 2022)
-- DOI:10.1007/978‐3‐031‐08011‐1_10
+- **Toast, Dublin, Ireland**: Focused on augmenting customer support channels and worked on both frontend and backend aspects of the Toast website. Additionally, I worked on the Toast POS Android application. Tech stack: `Java EE`, `Spring Boot`, `PostgreSQL`, `Android`, `Hibernate`, `Apache Thrift`, `Twilio`.
 
-## 🏆 Honors & Awards
+## 🎓 Education
 
-- **Learning to Rank competition** in collaboration between the Vrije Universiteit Amsterdam and Universiteit van Amsterdam (First Place)
-- **CODE Demo Day**, Pitching my project on the Virtual Demo Day 2020 of the CODE University
-- **42, Silicon Valley Intensive Low-Level Programming Training** (Rated as one of the best 10% of all 200+ students)
+- **Master of Science in Artificial Intelligence**: Vrije Universiteit Amsterdam, GPA: 3.7. Achieved an outstanding thesis score of 4.0 (GPA) which delved deep into Reconnaissance Blind Chess.
 
-## 🛠 Tech Stack
+- **Bachelor of Science in Computer Software Engineering**: CODE University of Applied Sciences.
 
-- Python, PyTorch, Tensorflow, Pandas, Numpy
-- Kotlin, Quarkus, PostgresQL, Flyway, Twilio, Postmark
-- Java EE, Spring Boot, Quarkus, Protocol Buffers
-- Android, Hibernate, Apache Thrift
+## 📚 Research & Publications
+
+- **Reconnaissance Blind Chess**: Explored computational models of opponent knowledge in imperfect information games, developing novel algorithms and heuristics for strategic reasoning under uncertainty. Achieved a commendable 4th rank among 100 entries in a competition held by Johns Hopkins University.
+
+- **Extended Job Shop Scheduling Problem with AGVs**: Co-authored a paper in partnership with Telekom Innovation Laboratories and Fraunhofer FOKUS, evaluating classical and quantum approaches. We notably used quantum annealing algorithms to solve real-world factory logistics problems.
+
+## 🏆 Achievements
+
+- **Learning to Rank competition**: Secured the first place in a competition held between Vrije Universiteit Amsterdam and Universiteit van Amsterdam.
+
+- **CODE Demo Day**: Presented my project at the Virtual Demo Day 2020 of the CODE University.
+
+- **42, Silicon Valley Intensive Low-Level Programming Training**: Recognized among the top 10% of over 200 students.
+
+## 🔧 Skills & Tech Stack
+
+`Python`, `Kotlin`, `Java`, `Rust`, `C`, `C++`, `Machine Learning`, `Deep Learning`, `Tensorflow`, `PyTorch`, `Scikit-Learn`, `PostgreSQL`, `Django`, `Flask`, `Reinforcement Learning`, `CUDA` and more.
+
+🔗 **LinkedIn**: https://www.linkedin.com/in/robin-stoehr/
+
+📫 **Contact**: rb.stoehr@gmail.com
