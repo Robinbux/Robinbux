@@ -1,8 +1,8 @@
 # Robin Stöhr
 
-## Machine Learning Engineer | AI Researcher
+## Software Engineer | Machine Learning Engineer | AI Researcher
 
-Hello there! I'm Robin, an experienced Machine Learning Engineer holding a Master's in Artificial Intelligence from Vrije Universiteit Amsterdam. My journey in the tech world has taken me through renowned organizations like Uber, SuperX, and Toast. I thrive at the intersection of software engineering and artificial intelligence, and I'm passionate about pushing the boundaries of what AI can achieve. 
+Hello there! I'm Robin, an experienced Software and Machine Learning Engineer holding a Master's in Artificial Intelligence from Vrije Universiteit Amsterdam. My journey in the tech world has taken me through renowned organizations like Uber, SuperX, and Toast. I thrive at the intersection of software engineering and artificial intelligence, and I'm passionate about pushing the boundaries of what AI can achieve. 
 
 ## 💼 Professional Experience
 
